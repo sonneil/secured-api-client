@@ -1,0 +1,49 @@
+body {
+  align-items: center;
+  background-color: #121212;
+}
+
+.header {
+  background-color: #262629;
+  height:50px;
+  width:100%;
+  margin: 0px;
+  line-height:45px;
+  font-size: 1.5em;
+  color: white;
+}
+
+.header-title {
+  margin-left:15px;
+  opacity: 60%;
+}
+
+.header-logout {
+  float:right;
+  padding:0px;
+  margin:0px;
+  margin-right:15px;
+}
+
+.loginContainer {
+  margin: auto;
+  text-align: center;
+  width: 200px;
+  color: white;
+}
+
+.loginButton {
+  margin-top: 20px;
+  text-align: center;
+  width: 190px;
+  padding: 10px
+}
+
+.loginInput {
+  padding: 10px;
+}
+
+.bodyContainer {
+  color: white;
+  opacity: 87%;
+}

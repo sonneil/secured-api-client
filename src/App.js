@@ -1,3 +1,4 @@
+import React from 'react'
 import './App.css';
 import { SecuredComponent } from './components/SecuredComponent';
 import { SecureComponent } from './components/SecureComponent';
